@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Ojeda</h1>
-<h3 align="center">A passionate web developer from Mexico</h3>
+<h3 align="center">A passionate web developer from México</h3>
 
 - 🌱 I’m currently learning **Vue**
 
