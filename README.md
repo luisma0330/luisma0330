@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Ojeda</h1>
 <h3 align="center">A passionate web developer from México</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **luima0330@hotmail.com**
 
