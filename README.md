@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Ojeda</h1>
-<h3 align="center">A passionate web developer from México</h3>
+<h3 align="center">A passionate Cloud Engineer from México</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Bash Scripting**
 
-- 📫 How to reach me **luima0330@hotmail.com**
+- 📫 How to reach me **luisma0330@gmail.com**
 
 <p align="left">
 </p>
