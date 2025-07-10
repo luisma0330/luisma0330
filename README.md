@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Ojeda</h1>
 <h3 align="center">A passionate Cloud Engineer from México</h3>
 
-- 🌱 I’m currently practing **Bash Scripting**
+- 🌱 I’m currently practicing **Bash Scripting**
 
 - 📫 How to reach me **luisma0330@gmail.com**
 
